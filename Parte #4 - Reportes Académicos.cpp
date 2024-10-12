@@ -59,3 +59,5 @@ int main() {
 
     return 0;
 }
+
+//El codigo rand() % 50 + 51 solo esta para simular las notas, ya que la parte 3 de la asignacion de notas no esta finalizada
